@@ -3,6 +3,7 @@
 A solid octo invention project
 
 ## Installation
+// Updated at 2026-01-10
 
 // Updated at 2026-01-10
 \`\`\`bash
